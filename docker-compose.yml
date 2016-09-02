@@ -10,6 +10,8 @@ ctfd:
     - data:rw
   links:
     - db
+  ports:
+    - '10001:8000'
 
 db:
   image: mariadb

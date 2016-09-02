@@ -2,6 +2,9 @@
 
 sed "s;sqlite:///ctfd.db;mysql+pymysql://${MYSQL_USER}:${MYSQL_PASSWORD}@db/ctfd;g" CTFd/config.py -i
 
+# Docker Cloud workaround
+echo "${DB_PORT_3306_TCP_ADDR} db" >> /etc/hosts
+
 # wait for mysql to start
 while ! nc db 3306 >/dev/null 2>&1 < /dev/null; do
     if [ $i -ge 50 ]; then
