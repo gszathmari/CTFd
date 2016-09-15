@@ -1,0 +1,39 @@
+<div class="container main-container">
+<h3>Rule 0</h3>
+<h4>No bullshit!</h4>
+Read and remember SecTalks' <a href="http://www.sectalks.org/coc/" target="_blank">"no bullshit!" clause</a>.
+
+<h3>Rule 1</h2>
+<h4>Cooperation</h4>
+
+No cooperation between teams with independent accounts. Sharing of keys or providing revealing hints to other teams is cheating, don’t do it.
+
+<h3>Rule 2</h3>
+<h4>Attacking Scoreboard</h4>
+
+No attacking the competition infrastructure. If bugs or vulns are found, please alert the competition organizers immediately.
+
+<h3>Rule 3</h3>
+<h4>Sabotage</h4>
+
+Absolutely no sabotaging of other competing teams, or in any way hindering their independent progress.
+
+<h3>Rule 4</h3>
+<h4>Bruteforcing</h4>
+
+No brute forcing of challenge flag/ keys against the scoring site.
+
+<h3>Rule 5</h3>
+<h4>Denial Of Service</h4>
+
+DoSing the CTF platform or any of the challenges is forbidden.
+
+<h3>Legal</h3>
+<h4>Disclaimer</h4>
+
+By participating in the contest, you agree to release SecTalks from any and all liability, claims or actions of any kind whatsoever for injuries, damages or losses to persons and property which may be sustained in connection with the contest. You acknowledge and agree that SecTalks is not responsible for technical, hardware or software failures, or other errors or problems which may occur in connection with the contest.
+
+If you have any questions about what is or is not allowed, please ask an organizer.
+
+Have fun!
+</div>

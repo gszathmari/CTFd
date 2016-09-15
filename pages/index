@@ -1,0 +1,14 @@
+<div class="container main-container">
+    <img class="logo" src="/static/original/img/logo.png" />
+    <h3 class="text-center">
+        Welcome to the SecTalks Capture the Flag Competition.
+    </h3>
+
+    <h4 class="text-center">
+        Read the <a href="/Rules">Rules</a> and then <a href="/login">Login</a>.
+    </h4>
+    
+    <h5 class="text-center">
+        With ❤ <a href="https://www.elttam.com.au/roles/?utm_source=sectalks&utm_medium=ctfdashboard&utm_term=ctf&utm_campaign=sponsorship" target="_blank">elttam</a>
+    </h5>
+</div>
