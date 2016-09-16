@@ -1,6 +1,8 @@
 ![](https://raw.githubusercontent.com/isislab/CTFd/master/CTFd/static/original/img/logo.png)
 ====
 
+This repo has been modified for [https://sectalks.org](SecTalks)
+
 CTFd is a CTF in a can. Easily modifiable and has everything you need to run a jeopardy style CTF.
 
 Install: 
