@@ -55,7 +55,7 @@ def setup():
         Welcome to the <a href="https://www.sectalks.org">SecTalks</a> Capture the Flag Competition.
     </h3>
     <h4 class="text-center">
-        <a href="/login">Login</a>
+        <a href="/login">Login here</a> to begin
     </h4>
 </div>""".format(request.script_root))
 
