@@ -52,11 +52,10 @@ def setup():
             page = Pages('index', """<div class="container main-container">
     <img class="logo" src="{0}/static/original/img/logo.png" />
     <h3 class="text-center">
-        Welcome to a cool CTF framework written by <a href="https://github.com/ColdHeat">Kevin Chung</a> of <a href="https://github.com/isislab">@isislab</a>
+        Welcome to the <a href="https://www.sectalks.org">SecTalks</a> Capture the Flag Competition.
     </h3>
-
     <h4 class="text-center">
-        <a href="{0}/admin">Click here</a> to login and setup your CTF
+        <a href="/login">Login</a>
     </h4>
 </div>""".format(request.script_root))
 
