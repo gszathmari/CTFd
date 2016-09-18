@@ -1,5 +1,5 @@
 ctfd:
-  build: .
+  image: sectalks/ctfd
   restart: always  
   environment: 
     - &MU MYSQL_USER=ctfd
@@ -24,7 +24,7 @@ db:
     - data:rw
   
 data:
-  image: mariadb
+  image: alpine
   restart: always
   volumes:
     - /var/lib/mysql
