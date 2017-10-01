@@ -139,7 +139,7 @@ input[type="checkbox"] { margin: 0px !important; position: relative; top: 5px; }
                 </td>
                 <td class="text-center"><span>
                     <i class="fa fa-pencil-square-o"></i>
-                    {% if mailserver() %}<i class="fa fa-envelope"></i>{% endif %}
+                    {% if can_send_mail() %}<i class="fa fa-envelope"></i>{% endif %}
                     <i class="fa fa-times"></i>
                 </span>
                 </td>
